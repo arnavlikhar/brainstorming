@@ -1,0 +1,7 @@
+ I Forget to carry some books in school or tution.
+ solution: make an application  that reminds us to carry our books and will also have a dynamic timetable created by users.
+ Use AC and blankets at the same time 
+ solution: make an application so that it can set the ac on a moderate temperature.
+ Grandmother has difficulty in seeing but she likes reading. 
+ She feels angry when she can't read.
+ solution: make the font large on an computer.
